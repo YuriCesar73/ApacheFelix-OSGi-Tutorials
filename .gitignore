@@ -1,0 +1,17 @@
+# Diretórios de compilação
+/bin/
+/target/
+
+# Arquivos de pacotes do Maven
+.m2/
+
+# Arquivos do IDE (Eclipse, IntelliJ, etc.)
+.classpath
+.project
+.idea/
+*.iml
+
+# Arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
+
